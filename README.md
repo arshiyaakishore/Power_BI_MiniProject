@@ -1,6 +1,6 @@
 # Power_BI_MiniProject
 
-## Power BI
+### What is Power BI?
 
 
 Objective:
